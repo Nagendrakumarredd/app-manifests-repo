@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: simple-app
-        image: yamalanagendrakumarreddy/simple-app:62
+        image: syamalanagendrakumarreddy/simple-app
         ports:
         - containerPort: 8080
